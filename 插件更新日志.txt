@@ -120,3 +120,9 @@
 
 67：降级插件 B#[基础]ItemsAdder_3.6.4-release-3.jar => ItemsAdder_3.6.3-beta-7 // 解决角色死亡后报错
 68：带有冒号的 itemsadder 占位符例如 :owner: 在 bukkit 会导致 onPacketSending(PacketEvent) 错误 3.6.3-beta-8 及以上才会出现。低版本无法在聊天时显示特殊图标，解决方案需要换插件核心为 Spigot/Paper  不支持 Bukkit + Spigot 虽然有报错但是可以正常使用 （总的来说除了降级和更换服务核心无解）
+
+操作日期 (20241022)
+69：经测试旧版 LoneLibs (https://github.com/LoneDev6/SpigotUtilities/raw/a97832b22d31ca901b26099f80c6188c809bc81a/LoneLibs.jar) 最大支持版本号 A#[美化]ItemsAdder_3.6.3-beta-12 此版本无异常
+70：更新 A#[安全]Spartan-v537.5.jar
+71：更新 C#[前置][领地]CMILib1.5.1.6.jar
+72：更新 C#[天气]RealisticSeasons-11.3.5.jar
